@@ -5,7 +5,7 @@
       <Text>Canberra</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_SYDNEY" Language="ms_MY">
-      <Text>Sídney</Text>
+      <Text>Sydney</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_MELBOURNE" Language="ms_MY">
       <Text>Melbourne</Text>
@@ -440,22 +440,22 @@
       <Text>Teniendo en cuenta el clima y la posición de las fuerzas australianas actuales, me temo que ahora sería imprudente.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Para mantener la paz puede que sea necesario que las fuerzas de Australia tengan que atravesar vuestros territorios. </Text>
+      <Text>Untuk menjaga keamanan, perlulah tentera Australia melalui wilayah mu. </Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Podéis imaginaros la sensación que da ver a vuestras fuerzas congregadas en nuestras fronteras, ¿verdad? Espero que sea una equivocación.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Los principios por los cuales hemos luchado perdurarán mucho más que cualquier nación que podáis crear.</Text>
+      <Text>Pendirian tumpahan darah kami akan kekal lebih lama daripada mana-mana negarabangsa yang engkau mampu dirikan.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Qué revés tan inoportuno.</Text>
+      <Text>Dukacita, rugilah kita.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>¡Estamos de acuerdo, entonces!</Text>
+      <Text>Sukacita, setujulah kita!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE" Language="ms_MY">
-      <Text>John Curtin se alegra de que hayas liberado una ciudad.</Text>
+      <Text>John Curtin berasa girang kerana anda membebaskan sebuah kota.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY" Language="ms_MY">
       <Text>John Curtin berasa gusar kerana anda menjajah kota-kota musuh.</Text>
