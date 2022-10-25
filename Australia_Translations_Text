@@ -3,208 +3,126 @@
   <LocalizedText>
     <Replace Tag="LOC_CITY_NAME_CANBERRA" Language="ms_MY">
       <Text>Canberra</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_SYDNEY" Language="ms_MY">
       <Text>Sídney</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_MELBOURNE" Language="ms_MY">
       <Text>Melbourne</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BRISBANE" Language="ms_MY">
       <Text>Brisbane</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ADELAIDE" Language="ms_MY">
       <Text>Adelaida</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_PERTH" Language="ms_MY">
       <Text>Perth</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_HOBART" Language="ms_MY">
       <Text>Hobart</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_GEELONG" Language="ms_MY">
       <Text>Geelong</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_LAUNCESTON" Language="ms_MY">
       <Text>Launceston </Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BALLAARAT" Language="ms_MY">
       <Text>Ballaarat</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ROCKHAMPTON" Language="ms_MY">
       <Text>Rockhampton</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_TOOWOOMBA" Language="ms_MY">
       <Text>Toowoomba</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_TOWNSVILLE" Language="ms_MY">
       <Text>Townsville</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BENDIGO" Language="ms_MY">
       <Text>Bendigo</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BROKEN_HILL" Language="ms_MY">
       <Text>Broken Hill</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_MAITLAND" Language="ms_MY">
       <Text>Maitland</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_WOLLONGONG" Language="ms_MY">
       <Text>Wollongong</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_CAIRNS" Language="ms_MY">
       <Text>Cairns</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_DARWIN" Language="ms_MY">
       <Text>Darwin</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_GOULBURN" Language="ms_MY">
       <Text>Goulburn</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BUNDABERG" Language="ms_MY">
       <Text>Bundaberg</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_WAGGA_WAGGA" Language="ms_MY">
       <Text>Wagga Wagga</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_LISMORE" Language="ms_MY">
       <Text>Lismore</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_LITHGOW" Language="ms_MY">
       <Text>Lithgow</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_MARYBOROUGH" Language="ms_MY">
       <Text>Maryborough</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ALBURY" Language="ms_MY">
       <Text>Albury</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ORANGE" Language="ms_MY">
       <Text>Orange</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_FREMANTLE" Language="ms_MY">
       <Text>Fremantle</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_TWEED_HEADS" Language="ms_MY">
       <Text>Tweed Heads</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_COFFS_HARBOUR" Language="ms_MY">
       <Text>Coffs Harbour</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_HERVEY_BAY" Language="ms_MY">
       <Text>Hervey Bay</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_KALGOORLIE" Language="ms_MY">
       <Text>Kalgoorlie</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_PORT_MACQUARIE" Language="ms_MY">
       <Text>Port Macquarie</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ALICE_SPRINGS" Language="ms_MY">
       <Text>Alice Springs</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BATHURST" Language="ms_MY">
       <Text>Bathurst</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_GLADSTONE" Language="ms_MY">
       <Text>Gladstone</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_QUEANBEYAN" Language="ms_MY">
       <Text>Queanbeyan</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_PORT_PIRIE" Language="ms_MY">
       <Text>Port Pirie</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH" Language="ms_MY">
       <Text>Boomahnoomoonah</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION" Language="ms_MY">
       <Text>Imperio australiano</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE" Language="ms_MY">
       <Text>australiano|australiana|australianos|australianas</Text>
-      <Gender>masculine|feminine|masculine|feminine</Gender>
-      <Plurality>1|1|2|2</Plurality>
     </Replace>
     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_1" Language="ms_MY">
       <Text>Las antípodas —colonizadas por los aborígenes, los delincuentes, los pobres, los "bushrangers" (prófugos) y los "bogans" (tirados) sucesivamente— fueron ocupadas por primera vez hace 45 000 años, cuando alguien consiguió emigrar desde las islas de Indonesia y llegar a la costa norte del continente. Estos cazadores-recolectores prosperaron en su aislamiento y desarrollaron una cultura de gran riqueza oral y espiritual hasta que, en el año 1770 d. C., el capitán James Cook recorrió su costa y tomó el lugar para la Gran Bretaña. El capitán Cook no fue el primero en toparse con Australia —el holandés Willem Janszoon y el inglés William Dampier ya lo habían hecho mucho antes—, pero sí que fue el primero en ver las oportunidades que ofrecía aquella tierra lejana y peligrosa.</Text>
@@ -304,203 +222,123 @@
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_1" Language="ms_MY">
       <Text>Anatjari</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_2" Language="ms_MY">
       <Text>Colebee</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_3" Language="ms_MY">
       <Text>Djalu</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_4" Language="ms_MY">
       <Text>Gurumarra</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_5" Language="ms_MY">
       <Text>Jarli</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_6" Language="ms_MY">
       <Text>Mandawuy</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_7" Language="ms_MY">
       <Text>Toba</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_8" Language="ms_MY">
       <Text>Yarran</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_9" Language="ms_MY">
       <Text>Warrin</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_10" Language="ms_MY">
       <Text>Waku</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1" Language="ms_MY">
       <Text>Bindi</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2" Language="ms_MY">
       <Text>Kalinda</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3" Language="ms_MY">
       <Text>Kirra</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4" Language="ms_MY">
       <Text>Ellin</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5" Language="ms_MY">
       <Text>Jedda</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6" Language="ms_MY">
       <Text>Lenah</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7" Language="ms_MY">
       <Text>Marindah</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8" Language="ms_MY">
       <Text>Parara</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9" Language="ms_MY">
       <Text>Tatali</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10" Language="ms_MY">
       <Text>Wintjiya</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1" Language="ms_MY">
       <Text>James</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2" Language="ms_MY">
       <Text>Luke</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3" Language="ms_MY">
       <Text>Jackson</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4" Language="ms_MY">
       <Text>Cody</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5" Language="ms_MY">
       <Text>Mitch</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6" Language="ms_MY">
       <Text>Blake</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7" Language="ms_MY">
       <Text>Hugo</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8" Language="ms_MY">
       <Text>Brenden</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9" Language="ms_MY">
       <Text>Jordan</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10" Language="ms_MY">
       <Text>Michael</Text>
-      <Gender>masculine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1" Language="ms_MY">
       <Text>Nicole</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2" Language="ms_MY">
       <Text>Olivia</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3" Language="ms_MY">
       <Text>Zoe</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4" Language="ms_MY">
       <Text>Holly</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5" Language="ms_MY">
       <Text>Paige</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6" Language="ms_MY">
       <Text>Kathleen</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7" Language="ms_MY">
       <Text>Louisa</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8" Language="ms_MY">
       <Text>Michele</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9" Language="ms_MY">
       <Text>Elizabeth</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10" Language="ms_MY">
       <Text>Alicia</Text>
-      <Gender>feminine</Gender>
-      <Plurality>1</Plurality>
     </Replace>
     <Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME" Language="ms_MY">
       <Text>Perpetuamente en guardia</Text>
