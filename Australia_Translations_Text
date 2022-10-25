@@ -458,7 +458,7 @@
       <Text>John Curtin se alegra de que hayas liberado una ciudad.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY" Language="ms_MY">
-      <Text>A John Curtin le disgusta que estés ocupando ciudades enemigas.</Text>
+      <Text>John Curtin berasa gusar kerana anda menjajah kota-kota musuh.</Text>
     </Replace>
   </LocalizedText>
 </GameData>
