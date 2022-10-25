@@ -119,10 +119,10 @@
       <Text>Boomahnoomoonah</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION" Language="ms_MY">
-      <Text>Imperio australiano</Text>
+      <Text>Empayar Australia</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE" Language="ms_MY">
-      <Text>australiano|australiana|australianos|australianas</Text>
+      <Text>Orang Australia</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_1" Language="ms_MY">
       <Text>Las antípodas —colonizadas por los aborígenes, los delincuentes, los pobres, los "bushrangers" (prófugos) y los "bogans" (tirados) sucesivamente— fueron ocupadas por primera vez hace 45 000 años, cuando alguien consiguió emigrar desde las islas de Indonesia y llegar a la costa norte del continente. Estos cazadores-recolectores prosperaron en su aislamiento y desarrollaron una cultura de gran riqueza oral y espiritual hasta que, en el año 1770 d. C., el capitán James Cook recorrió su costa y tomó el lugar para la Gran Bretaña. El capitán Cook no fue el primero en toparse con Australia —el holandés Willem Janszoon y el inglés William Dampier ya lo habían hecho mucho antes—, pero sí que fue el primero en ver las oportunidades que ofrecía aquella tierra lejana y peligrosa.</Text>
@@ -341,22 +341,22 @@
       <Text>Alicia</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME" Language="ms_MY">
-      <Text>Perpetuamente en guardia</Text>
+      <Text>Berjaga selama-lamanya</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION" Language="ms_MY">
-      <Text>Le gustan las civilizaciones que liberan ciudades. No le gustan las civilizaciones en guerra que ocupan ciudades enemigas.</Text>
+      <Text>Gemar tamadun pembebas kota. Benci tamadun pemerang yang menjajah kota musuh.</Text>
     </Replace>
     <Replace Tag="LOC_CIVINFO_AUSTRALIA_LOCATION" Language="ms_MY">
-      <Text>El continente australiano</Text>
+      <Text>Benua Australia</Text>
     </Replace>
     <Replace Tag="LOC_CIVINFO_AUSTRALIA_SIZE" Language="ms_MY">
-      <Text>Sobre 7 700 000 kilómetros cuadrados</Text>
+      <Text>Kira-kira 7.7 juta kilometer persegi</Text>
     </Replace>
     <Replace Tag="LOC_CIVINFO_AUSTRALIA_POPULATION" Language="ms_MY">
-      <Text>Aproximadamente 24 millones (estimación de 2017)</Text>
+      <Text>Kasarnya 24 juta (anggaran 2017)</Text>
     </Replace>
     <Replace Tag="LOC_CIVINFO_AUSTRALIA_CAPITAL" Language="ms_MY">
-      <Text>Melbourne, ahora Canberra</Text>
+      <Text>Melbourne, kini Canberra</Text>
     </Replace>
     <Replace Tag="LOC_FEATURE_ULURU_QUOTE" Language="ms_MY">
       <Text>Qué hermoso tiene que ser este lugar en la temporada de lluvias: ¡cascadas por doquier![NEWLINE]– William Gosse</Text>
@@ -434,16 +434,16 @@
       <Text>Los países que quieren vivir en armonía deben pagar un precio por la paz. Y nosotros estamos dispuestos a hacerlo. ¿Vuestro caso es el mismo?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Mientras no tengáis malas intenciones, nosotros no tendremos ningún problema.</Text>
+      <Text>Selagi usaha engkau penuh dengan setulus hati, tiada hal bagi kita.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Teniendo en cuenta el clima y la posición de las fuerzas australianas actuales, me temo que ahora sería imprudente.</Text>
+      <Text>Dengan keadaan dan jejak siaga tentera Australia, itu bukanlah langkah yang bijak bagi aku.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Untuk menjaga keamanan, perlulah tentera Australia melalui wilayah mu. </Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Podéis imaginaros la sensación que da ver a vuestras fuerzas congregadas en nuestras fronteras, ¿verdad? Espero que sea una equivocación.</Text>
+      <Text>Engkau pasti tahu seperti apa bayangannya apabila tentera engkau berkerumun di sempadan kami? Aku anggap sajalah ia kesilapan.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Pendirian tumpahan darah kami akan kekal lebih lama daripada mana-mana negarabangsa yang engkau mampu dirikan.</Text>
