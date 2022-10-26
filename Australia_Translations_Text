@@ -98,7 +98,7 @@
       <Text>Kalgoorlie</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_PORT_MACQUARIE" Language="ms_MY">
-      <Text>Port Macquarie</Text>
+      <Text>Pelabuhan Macquarie</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ALICE_SPRINGS" Language="ms_MY">
       <Text>Alice Springs</Text>
@@ -113,7 +113,7 @@
       <Text>Queanbeyan</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_PORT_PIRIE" Language="ms_MY">
-      <Text>Port Pirie</Text>
+      <Text>Pelabuhan Pirie</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH" Language="ms_MY">
       <Text>Boomahnoomoonah</Text>
@@ -407,31 +407,31 @@
       <Text>Si lo creéis adecuado, me encantaría que visitaseis nuestra ciudad más cercana. ¿Qué os parece si añado a la oferta unas nueces de macadamia?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Por supuesto.</Text>
+      <Text>Sudah tentu.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Creo que un intercambio de conocimientos, como la historia de nuestras capitales, será de mucha ayuda para afianzar nuestra amistad.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>¡Me alegro de veros!</Text>
+      <Text>Selamat berjumpa kembali!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Me encanta vuestra perseverancia. Tenemos un interés común en proteger a aquellos que no suelen poder protegerse por sí mismos.</Text>
+      <Text>Aku puji ketabahan engkau. Kita mempunyai kepentingan bersama dalam melindungi sesiapa yang tak mampu melindungi diri sendiri.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>La guerra solo nos provocará pérdidas. Pérdida de vidas, de productividad, ¡e incluso de nuestra propia humanidad!</Text>
+      <Text>Peperangan hanyalah pembawa kerugian. Rugi kepada nyawa, rugi kepada hasil, rugi kepada manusia!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>¿Os gustaría formar una alianza?</Text>
+      <Text>Mahukah engkau tubuhkan perikataan?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Daríamos la bienvenida encantados a una paz duradera entre nuestras naciones.</Text>
+      <Text>Kami mengalu-alukan keamanan kekal untuk negara-negara kita bersama.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>No, eso no.</Text>
+      <Text>Tak, tak patut begitu.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Los países que quieren vivir en armonía deben pagar un precio por la paz. Y nosotros estamos dispuestos a hacerlo. ¿Vuestro caso es el mismo?</Text>
+      <Text>Negara yang ingin hidup bersahabat mestilah berkorban demi keamanan. Kami sanggup. Tapi persoalannya, engkau sanggupkah?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Selagi usaha engkau penuh dengan setulus hati, tiada hal bagi kita.</Text>
