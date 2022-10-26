@@ -404,13 +404,13 @@
       <Text>John Curtin, hablo en nombre de la gente de Australia en calidad de primer ministro. Buscamos aliados solidarios para luchar contra los fanáticos de la guerra.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Si lo creéis adecuado, me encantaría que visitaseis nuestra ciudad más cercana. ¿Qué os parece si añado a la oferta unas nueces de macadamia?</Text>
+      <Text>Kalau berkesempatan, aku nak minta engkau lawat kota terdekat kami. Mungkin kami boleh basahkan tekak engkau dengan kacang makadamia panggang?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Sudah tentu.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Creo que un intercambio de conocimientos, como la historia de nuestras capitales, será de mucha ayuda para afianzar nuestra amistad.</Text>
+      <Text>Aku fikir yang pertukaran pengetahuan, mungkin ceritera mengenai ibu kota kita, akan menjadi penyumbang besar dalam mengeratkan persahabatan kita yang kian berputik.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Selamat berjumpa kembali!</Text>
