@@ -344,7 +344,7 @@
       <Text>Berjaga selama-lamanya</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION" Language="ms_MY">
-      <Text>Gemar tamadun pembebas kota. Benci tamadun pemerang yang menjajah kota musuh.</Text>
+      <Text>Menyukai tamadun pembebas kota. Benci tamadun pemerang yang menjajah kota musuh.</Text>
     </Replace>
     <Replace Tag="LOC_CIVINFO_AUSTRALIA_LOCATION" Language="ms_MY">
       <Text>Benua Australia</Text>
