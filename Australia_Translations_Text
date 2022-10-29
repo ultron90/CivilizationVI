@@ -14,7 +14,7 @@
       <Text>Brisbane</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ADELAIDE" Language="ms_MY">
-      <Text>Adelaida</Text>
+      <Text>Adelaide</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_PERTH" Language="ms_MY">
       <Text>Perth</Text>
@@ -122,7 +122,7 @@
       <Text>Empayar Australia</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE" Language="ms_MY">
-      <Text>Orang Australia</Text>
+      <Text>Australia</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_1" Language="ms_MY">
       <Text>Las antípodas —colonizadas por los aborígenes, los delincuentes, los pobres, los "bushrangers" (prófugos) y los "bogans" (tirados) sucesivamente— fueron ocupadas por primera vez hace 45 000 años, cuando alguien consiguió emigrar desde las islas de Indonesia y llegar a la costa norte del continente. Estos cazadores-recolectores prosperaron en su aislamiento y desarrollaron una cultura de gran riqueza oral y espiritual hasta que, en el año 1770 d. C., el capitán James Cook recorrió su costa y tomó el lugar para la Gran Bretaña. El capitán Cook no fue el primero en toparse con Australia —el holandés Willem Janszoon y el inglés William Dampier ya lo habían hecho mucho antes—, pero sí que fue el primero en ver las oportunidades que ofrecía aquella tierra lejana y peligrosa.</Text>
@@ -341,10 +341,10 @@
       <Text>Alicia</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME" Language="ms_MY">
-      <Text>Berjaga selama-lamanya</Text>
+      <Text>Berjaga Selama-lamanya</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION" Language="ms_MY">
-      <Text>Gemar tamadun pembebas kota. Benci tamadun pemerang yang menjajah kota musuh.</Text>
+      <Text>Menyukai tamadun yang membebaskan kota. Tak suka tamadun pemerang yang menduduki kota musuh.</Text>
     </Replace>
     <Replace Tag="LOC_CIVINFO_AUSTRALIA_LOCATION" Language="ms_MY">
       <Text>Benua Australia</Text>
@@ -359,106 +359,106 @@
       <Text>Melbourne, kini Canberra</Text>
     </Replace>
     <Replace Tag="LOC_FEATURE_ULURU_QUOTE" Language="ms_MY">
-      <Text>Qué hermoso tiene que ser este lugar en la temporada de lluvias: ¡cascadas por doquier![NEWLINE]– William Gosse</Text>
+      <Text>Alangkah indahnya tempat ini pada musim hujan: air terjun di merata-rata!![NEWLINE]– William Gosse</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION_NAME" Language="ms_MY">
-      <Text>Mejora exclusiva de Australia: Station del Outback</Text>
+      <Text>Pemajuan Unik Australia: Ladang Ternak Pedalaman</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Reconoceríamos encantados el gran lazo de unión entre nuestras naciones.</Text>
+      <Text>Kami sudi mengiktirafkan persahabatan yang kukuh antara negara kita.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Espero que lo entendáis, pero esta vez no podemos realizar ningún gesto oficial.</Text>
+      <Text>Tolong faham, kami tak boleh membuat apa-apa isyarat rasmi buat masa ini.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Creo que nuestra amistad está cimentada sobre un interés mutuo en mantener la estabilidad y proteger a los que lo necesitan. Espero que estéis de acuerdo.</Text>
+      <Text>Saya percaya bahawa persahabatan kita berasaskan hasrat untuk mengekalkan kestabilan dan melindungi mereka yang susah. Saya harap awak bersetuju.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Os agradezco todo lo que habéis hecho.</Text>
+      <Text>Terima kasih atas semua yang awak telah lakukan.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Qué revés tan inoportuno.</Text>
+      <Text>Ini perkembangan yang tak menyenangkan langsung.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>¡Haremos todo lo que sea necesario para detener este ultraje contra nuestra nación!</Text>
+      <Text>Kami akan melakukan apa saja untuk menghentikan pencerobohan terhadap negara kami ini!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Después de mucho deliberar, Australia se encuentra en una encrucijada. Preparaos, pues la guerra es inminente.</Text>
+      <Text>Selepas banyak mempertimbangkannya, Australia perlu membuat keputusan. Bersiap sedialah, kita akan berperang.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Australia ha dado una cálida bienvenida a la delegación que enviasteis de visita a nuestra capital. Tengo la intención de verlos en persona para discutir nuestros últimos movimientos.</Text>
+      <Text>Australia telah menyambut rombongan yang awak hantar untuk melawat ibu kota kami. Saya berancang untuk berjumpa dengan awak secara peribadi untuk membincangkan usaha-usaha terbaru kami.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Con todo el respeto del mundo, he de rechazar vuestra delegación.</Text>
+      <Text>Saya dengan segala hormatnya menolak rombongan awak.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>He enviado a vuestros territorios una delegación comercial con una pequeña selección de carne ofrecida por nuestros ganaderos. Espero que la recibáis con agrado y con mi más sincera gratitud.</Text>
+      <Text>Saya telah menghantarkan rombongan pedagang ke wilayah awak dengan beberapa daging yang ditawarkan oleh penternak-penternak kami. Saya harap awak akan menerimanya dan dengan ucapan terima kasih saya.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>¡Las calumnias que habéis proferido contra Australia y su gente serán conocidas por doquier cuando vuestra endeble nación se convierta en cenizas!</Text>
+      <Text>Fitnah awak terhadap Australia dan rakyatnya akan diketahui oleh semua orang apabila negara awak yang lemah menjadi abu!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Las palabras y acciones reprobables que habéis cometido solo provocarán que vuestra gente siga el camino de la ignorancia y la miseria. (Te denuncia).</Text>
+      <Text>Kata-kata dan perbuatan jahat yang awak akan menjerumuskan rakyat awak ke dalam kejahilan dan kesengsaraan. (Anda dikecam).</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>John Curtin, hablo en nombre de la gente de Australia en calidad de primer ministro. Buscamos aliados solidarios para luchar contra los fanáticos de la guerra.</Text>
+      <Text>John Curtin, saya bercakap bagi rakyat Australia sebagai Perdana Menteri mereka. Kami sedang mencari sekutu untuk menentang kaki-kaki perang</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Kalau berkesempatan, aku nak minta engkau lawat kota terdekat kami. Mungkin kami boleh basahkan tekak engkau dengan kacang makadamia panggang?</Text>
+      <Text>Kalau sempat, jemputlah melawat kota terdekat kami. Mungkin kami boleh mempelawakan awak dengan kacang makadamia panggang?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Sudah tentu.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Aku fikir yang pertukaran pengetahuan, mungkin ceritera mengenai ibu kota kita, akan menjadi penyumbang besar dalam mengeratkan persahabatan kita yang kian berputik.</Text>
+      <Text>Saya rasa bertukar-tukar maklumat, mungkin cerita mengenai ibu kota kita, akan mengeratkan hubungan kita yang baru berputik ini.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Selamat berjumpa kembali!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Aku puji ketabahan engkau. Kita mempunyai kepentingan bersama dalam melindungi sesiapa yang tak mampu melindungi diri sendiri.</Text>
+      <Text>Saya puji ketabahan awak. Kita sama-sama ingin melindungi mereka yang tak mampu untuk melindungi diri sendiri.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Peperangan hanyalah pembawa kerugian. Rugi kepada nyawa, rugi kepada hasil, rugi kepada manusia!</Text>
+      <Text>Peperangan hanya akan membawa kerugian. Rugi kepada nyawa, rugi kepada hasil, rugi kepada perikemanusiaan kita!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Mahukah engkau tubuhkan perikataan?</Text>
+      <Text>Apa kata kita buat perikatan?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Kami mengalu-alukan keamanan kekal untuk negara-negara kita bersama.</Text>
+      <Text>Semoga kedua-dua negara akan kekal aman bersama.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Tak, tak patut begitu.</Text>
+      <Text>Tak, itu tak patut begitu.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Negara yang ingin hidup bersahabat mestilah berkorban demi keamanan. Kami sanggup. Tapi persoalannya, engkau sanggupkah?</Text>
+      <Text>Negara yang ingin hidup dengan berbaik-baik mestilah berkorban untuk keamanan. Kami sanggup, awak pula?</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Selagi usaha engkau penuh dengan setulus hati, tiada hal bagi kita.</Text>
+      <Text>Selagi usaha-usaha awak adalah untuk tujuan yang baik, tiada hal bagi kami.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Dengan keadaan dan jejak siaga tentera Australia, itu bukanlah langkah yang bijak bagi aku.</Text>
+      <Text>Dengan suasana politik dan kedudukan tentera Australia, itu bukan langkah yang bijak bagi saya.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Untuk menjaga keamanan, perlulah tentera Australia melalui wilayah mu. </Text>
+      <Text>Untuk menjaga keamanan, tentera Australia perlulah melalui wilayah awak. </Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Engkau pasti tahu seperti apa bayangannya apabila tentera engkau berkerumun di sempadan kami? Aku anggap sajalah ia kesilapan.</Text>
+      <Text>Awak tahukah bagaimana rasanya melihat tentera awak berkerumun di sempadan kami? Saya harap ini kesilapan saja.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Pendirian tumpahan darah kami akan kekal lebih lama daripada mana-mana negarabangsa yang engkau mampu dirikan.</Text>
+      <Text>Prinsip-prinsip yang kami perjuangkan akan kekal lebih lama daripada mana-mana negara yang awak akan mampu bina.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Dukacita, rugilah kita.</Text>
+      <Text>Ini perkembangan yang tak menyenangkan langsung.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>Sukacita, setujulah kita!</Text>
+      <Text>Setujulah kita!</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE" Language="ms_MY">
-      <Text>John Curtin berasa girang kerana anda membebaskan sebuah kota.</Text>
+      <Text>John Curtin gembira kerana anda membebaskan sebuah kota.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY" Language="ms_MY">
-      <Text>John Curtin berasa gusar kerana anda menjajah kota-kota musuh.</Text>
+      <Text>John Curtin berasa gusar kerana anda menduduki kota-kota musuh.</Text>
     </Replace>
   </LocalizedText>
 </GameData>
