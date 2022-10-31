@@ -26,7 +26,7 @@
       <Text>Geelong</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_LAUNCESTON" Language="ms_MY">
-      <Text>Launceston </Text>
+      <Text>Launceston</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_BALLAARAT" Language="ms_MY">
       <Text>Ballaarat</Text>
@@ -401,7 +401,7 @@
       <Text>Las palabras y acciones reprobables que habéis cometido solo provocarán que vuestra gente siga el camino de la ignorancia y la miseria. (Te denuncia).</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
-      <Text>John Curtin, hablo en nombre de la gente de Australia en calidad de primer ministro. Buscamos aliados solidarios para luchar contra los fanáticos de la guerra.</Text>
+      <Text>John Curtin, saya mewakili warga Australia selaku Perdana Menteri mereka. Kami inginkan sekutu yang mudah disenangi dalam pertarungan terhadap helang perang.</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY" Language="ms_MY">
       <Text>Kalau berkesempatan, aku nak minta engkau lawat kota terdekat kami. Mungkin kami boleh basahkan tekak engkau dengan kacang makadamia panggang?</Text>
