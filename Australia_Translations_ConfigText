@@ -1,5 +1,5 @@
-<Replace Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME" Language="ms_MY">
-      <Text>Outback Station</Text>
+	<Replace Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME" Language="ms_MY">
+      <Text>Ladang Ternak Pedalaman</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_NAME" Language="ms_MY">
       <Text>Australia</Text>
@@ -11,44 +11,44 @@
       <Text>Uluru</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME" Language="ms_MY">
-      <Text>Land Down Under</Text>
+      <Text>Negara Bawah Sana</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION" Language="ms_MY">
       <Text>+3 [ICON_Housing] Perumahan di kota-kota di pesisiran. Pastura mencetuskan Bom Budaya. Hasil-hasil dari Kampus, Pusat Perdagangan, Tapak Suci dan Medan Teater adalah +1 di jubin-jubin dengan Keindahan Menawan, +3 di Mengagumkan. </Text>
     </Replace>
     <Replace Tag="LOC_FEATURE_ULURU_DESCRIPTION" Language="ms_MY">
-      <Text>One tile impassable natural wonder. Provides +2 [ICON_CULTURE] Culture and +2 [ICON_FAITH] Faith to adjacent tiles. Provides +4 Appeal to adjacent tiles instead of the usual +2.</Text>
+      <Text>Keajaiban alam satu jubin yang tak dapat dilepasi. Menjanakan +2 [ICON_CULTURE] Budaya dan +2 [ICON_FAITH] Iman di jubin-jubin yang bersebelahan. Memberikan +4 Keindahan kepada jubin-jubin bersebelahan berbanding +2 seperti biasa.</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION" Language="ms_MY">
-      <Text>Pembina boleh membina Outback Station, unique to Australia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production. +1 [ICON_Food] Food for each adjacent Pasture. Additional [ICON_FOOD] Food and [ICON_PRODUCTION] Production as you advance through the Technology and Civic Tree for adjacent Outback Stations and Pastures. Can only be built in Desert, Desert Hills, Grassland, and Plains tiles.</Text>
+      <Text>Pembina boleh membina Ladang Ternak Pedalaman, unik kepada Australia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Makanan dan +1 [ICON_PRODUCTION] Pengeluaran. +1 [ICON_Food] Makanan untuk setiap Pastura yang bersebelahan. Lebih banyak [ICON_FOOD] Makanan dan [ICON_PRODUCTION] Pengeluaran setiap kali anda menyelesaikan Sivik dan Penyelidikan untuk setiap Ladang Ternak Pedalaman dan Pastura yang bersebelahan. Hanya boleh dibina dalam jubin Gurun, Bukit Gurun, Padang Rumput dan Dataran.</Text>
     </Replace>
     <Replace Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN" Language="ms_MY">
       <Text>Prime Minister Curtin, you will lead Australia to overcome one challenge after another, and your people will grow stronger for it. Others will seek your friendship because of your strength. If those friends are loyal, your power and protection will carry you far. But be careful, because aggression is not your natural course.</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME" Language="ms_MY">
-      <Text>Citadel of Civilization</Text>
+      <Text>Benteng Tamadun</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION" Language="ms_MY">
-      <Text>+100% [ICON_Production] Production if either they have received a declaration of war in the past 10 turns or if they have liberated a city in the past 20 turns.</Text>
+      <Text>+100% [ICON_Production] Pengeluaran kalau perang diisytiharkan terhadapnya dalam 10 giliran yang lalu atau kalau sebuah kota telah dimerdekakan dalam 20 giliran yang lalu.</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_DIGGER_DESCRIPTION" Language="ms_MY">
-      <Text>Australian unique Modern era unit that replaces Infantry. +10 [ICON_Strength] Combat Strength when fighting on Coastal tiles. +5 [ICON_Strength] Combat Strength when fighting on Neutral or Foreign Territory.</Text>
+      <Text>Unit era Moden yang unik kepada Australia yang menggantikan Infantri. +10 [ICON_Strength] Kekuatan Tempur apabila bertarung di jubin Pesisir. +5 [ICON_Strength] Kekuatan Tempur apabila bertempur di Wilayah Neutral atau Asing.</Text>
     </Replace>
     <Replace Tag="LOC_ABILITY_DIGGER_NAME" Language="ms_MY">
-      <Text>Digger</Text>
+      <Text>Diger</Text>
     </Replace>
     <Replace Tag="LOC_ABILITY_DIGGER_DESCRIPTION" Language="ms_MY">
-      <Text>+10 [ICON_Strength] Combat Strength when fighting on Coastal tiles. +5 [ICON_Strength] Combat Strength when fighting on Neutral or Foreign Territory.</Text>
+      <Text>+10 [ICON_Strength] Kekuatan Tempur apabila bertarung di jubin Pesisir. +5 [ICON_Strength] Kekuatan Tempur apabila bertempur di Wilayah Neutral atau Asing.</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION" Language="ms_MY">
-      <Text>+100% [ICON_PRODUCTION] Production if they have either received a declaration of war or liberated a city in the past 10 turns.</Text>
+      <Text>+100% [ICON_PRODUCTION] Pengeluaran kalau perang diisytiharkan terhadapnya atau kalau sebuah kota telah dimerdekakan dalam 10 giliran yang lalu.</Text>
     </Replace>
     <Replace Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION" Language="ms_MY">
-      <Text>+{1_Amount} Combat Strength on Coastal tiles</Text>
+      <Text>+{1_Amount} Kekuatan Tempur di jubin Pesisir</Text>
     </Replace>
     <Replace Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION" Language="ms_MY">
-      <Text>+{1_Amount} Combat Strength outside of Friendly Territory</Text>
+      <Text>+{1_Amount} Kekuatan Tempur di luar Wilayah Mesra</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_DIGGER_NAME" Language="ms_MY">
-      <Text>Digger</Text>
+      <Text>Diger</Text>
     </Replace>
